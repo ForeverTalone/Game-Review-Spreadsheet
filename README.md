@@ -1,2 +1,2 @@
-# Game-Review-Spreadsheet
-A spreadsheet designed to help League of Legends players review their games/replays easily.
+## Game Review Spreadsheet
+The *Game Review Spreadsheet* is a spreadsheet designed to help you review your League of Legends replays in a systematic environment. You can track your progress easily and potentially see where games went wrong (or right) with the information that you fill in after each match. The spreadsheet automatically highlights some pieces of important information such as your role, the outcome of the game, and the percentage of CS that you gained over multiple different checkpoints throughout the game (5/10/20/30 minutes). 
